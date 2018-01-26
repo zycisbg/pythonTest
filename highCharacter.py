@@ -14,7 +14,7 @@
 # print(l[::2])
 
 # 迭代
-from collections import Iterable
+from collectionsTest import Iterable
 
 
 # print(isinstance('abc', Iterable))
